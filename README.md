@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `first project`
 `BGchanger`
-images/Screenshot (213).png
+![Screenshot](images/Screenshot%20(213).png)
 
 ### `npm test`
 
